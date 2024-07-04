@@ -10,6 +10,8 @@ This repository explores the application of Natural Language Processing (NLP) te
 
 **Real-World Use Case:** A showcase how NLP can be used to analyze Airbnb rental listings in Tokyo, but the code is adaptable to other text datasets with minimal adjustments.
 
+
+![Cute kitten](goal.png "A cute kitten")
 ## Project Goals:
 
 Uncover hidden patterns and trends within property descriptions.
